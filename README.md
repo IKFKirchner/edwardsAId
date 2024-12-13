@@ -1,4 +1,4 @@
-# ChatGPT vs. Edward SAID: Generative AI in Underresourced Domains
+# ChatGPT vs. edward sAId: Generative AI in Underresourced Domains
 
 Ever tried working with ChatGPT but it didn't seem to know anything about Abbasid panegyrists or Ottoman legal records? Or did it just not want to talk to you at all because your inquiry was deemed too politically sensitive? 
 
